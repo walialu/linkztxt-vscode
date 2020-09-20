@@ -1,0 +1,14 @@
+About this plugin
+https://apps.walialu.com/linkz.txt
+
+About the author
+https://about.walialu.com/
+
+Create an issue
+https://github.com/walialu/linkztxt-vscode/issues
+
+View the source
+https://github.com/walialu/linkztxt-vscode
+
+VsCode Marketplace Link
+https://marketplace.visualstudio.com/items?itemName=superevilmegaco.linkztxt-vscode
