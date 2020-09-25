@@ -3,6 +3,10 @@ linkztxt-vscode
 
 A vscode extension for conviently browsing linkz.txt files from within vscode.
 
+## Motivation
+
+See this [link](https://apps.walialu.com/linkz.txt) for more information about the motivation behind linkz.txt.
+
 ## Installation
 
 Via [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=superevilmegaco.linkztxt-vscode).
